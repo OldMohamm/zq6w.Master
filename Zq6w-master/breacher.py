@@ -18,7 +18,7 @@ print ('''\033[1;34m______   ______ _______ _______ _______ _     _ _______  ___
 |_____] |_____/ |______ |_____| |       |_____| |______ |_____/
 |_____] |    \_ |______ |     | |_____  |     | |______ |    \_
 
-                          \033[37mMade with \033[91m<3\033[37m By D3V\033[1;m''')
+                          \033[37mMade with \033[91m<3\033[37m By OldMohamm\033[1;m''')
 
 print ('''\n  I am not responsible for your shit and if you get some error while
  running Breacher, there are good chances that target isn't responding.\n''')
